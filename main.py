@@ -1,1 +1,1 @@
-print("Adios nos veremos en una próxima")
+print("No los voy a acompañar en el siguiente ciclo")
